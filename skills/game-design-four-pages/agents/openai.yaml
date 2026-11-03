@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Design Four Pages"
+  short_description: "Create and review concise game design pages across development."
+  default_prompt: "Use $game-design-four-pages to create or update my game's four-page design overview."
